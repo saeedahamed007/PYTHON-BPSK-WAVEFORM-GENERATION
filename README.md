@@ -19,4 +19,4 @@ pip install speech_recognition
 pip install scipy
 pip install matplotlib 
 ```
-####FOR ANY QUERRIES REGARDING THE CODE PING ME @saeedahamednb@gmail.com
+#### FOR ANY QUERRIES REGARDING THE CODE PING ME @saeedahamednb@gmail.com
