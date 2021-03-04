@@ -1,5 +1,5 @@
 # Py-SPEECH_RECOGNITION BASED BPSK WAVEFORM GENERATION
-Py based binary phase shift keying (BPSK)  using PYTHON modules
+Binary phase shift keying (BPSK)  using PYTHON speech recognition libraries
 
 ### Installing
 Clone the repo and install the dependencies.
